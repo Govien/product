@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://mdownload.519e.com.cn/file/bitcare_bms.ipa</string>
+					<string>https://raw.githubusercontent.com/Govien/product/master/ios/519e/519e.ipa</string>
 				</dict>
 			</array>
 			<key>metadata</key>
